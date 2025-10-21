@@ -1,0 +1,14 @@
+# Archivos de entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Archivos temporales o de cache
+.streamlit/
+.DS_Store
+
+# Archivos grandes o sensibles
+*.h5
+*.db
+*.zip
+*.csv
